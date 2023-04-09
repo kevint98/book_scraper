@@ -1,0 +1,240 @@
+----------------------
+Scraped On: Sun Apr 02 2023 21:45:07
+
+GENRE: ART
+	Understanding Comics: The Invisible Art (Paperback) by Scott McCloud
+	Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered (Paperback) by Austin Kleon
+	On Ugliness (Hardcover) by Umberto Eco
+	The Art Book (Paperback) by Phaidon Press
+	The Lonely City: Adventures in the Art of Being Alone (Hardcover) by Olivia Laing
+
+GENRE: BIOGRAPHY
+	John Adams (Paperback) by David McCullough
+	Yes Please (Hardcover) by Amy Poehler
+	The Rise of Theodore Roosevelt (Paperback) by Edmund Morris
+	Alexander Hamilton (Paperback) by Ron Chernow
+	Unbroken: A World War II Story of Survival, Resilience and Redemption (Hardcover) by Laura Hillenbrand
+
+GENRE: BUSINESS
+	Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration (Hardcover) by Ed Catmull
+	Never Split the Difference: Negotiating as if Your Life Depended on It (Paperback) by Chris Voss
+	Think and Grow Rich (Paperback) by Napoleon Hill
+	Zero to One: Notes on Startups, or How to Build the Future (Hardcover) by Peter Thiel
+	Outliers: The Story of Success (Hardcover) by Malcolm Gladwell
+
+GENRE: CHRISTIAN
+	The Prodigal God: Recovering the Heart of the Christian Faith (Hardcover) by Timothy J. Keller
+	Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back (Paperback) by Todd Burpo
+	Seeking Allah, Finding Jesus: A Devout Muslim Encounters Christianity (Paperback) by Nabeel Qureshi
+	The Magician's Nephew (Chronicles of Narnia, #6) by C.S. Lewis
+	Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality (Paperback) by Donald Miller
+
+GENRE: CLASSICS
+	The Little Prince (Paperback) by Antoine de Saint-Exupéry
+	Wuthering Heights (Paperback) by Emily Brontë
+	Les Misérables (Mass Market Paperback) by Victor Hugo
+	A Christmas Carol (Paperback) by Charles Dickens
+	Rebecca (ebook) by Daphne du Maurier
+
+GENRE: CONTEMPORARY
+	Paper Towns (Paperback) by John Green
+	Looking for Alaska (Paperback) by John Green
+	People We Meet on Vacation (Paperback) by Emily Henry
+	Eliza and Her Monsters (Hardcover) by Francesca Zappia
+	Fangirl (Kindle Edition) by Rainbow Rowell
+
+GENRE: CRIME
+	Gone Girl (Paperback) by Gillian Flynn
+	Murder on the Orient Express (Hercule Poirot, #10) by Agatha Christie
+	In Cold Blood (Paperback) by Truman Capote
+	The Girl on the Train (Hardcover) by Paula Hawkins
+	Angels & Demons (Robert Langdon, #1) by Dan Brown
+
+GENRE: FANTASY
+	The Lord of the Rings (Paperback) by J.R.R. Tolkien
+	The Return of the King (The Lord of the Rings, #3) by J.R.R. Tolkien
+	The Final Empire (Mistborn, #1) by Brandon Sanderson
+	A Clash of Kings  (A Song of Ice and Fire, #2) by George R.R. Martin
+	Siege and Storm (The Shadow and Bone Trilogy, #2) by Leigh Bardugo
+
+GENRE: FICTION
+	Harry Potter and the Prisoner of Azkaban (Harry Potter, #3) by J.K. Rowling
+	The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1) by Douglas Adams
+	Memoirs of a Geisha (Mass Market Paperback) by Arthur Golden
+	Where the Crawdads Sing (ebook) by Delia Owens
+	The Da Vinci Code (Robert Langdon, #2) by Dan Brown
+
+GENRE: GAY AND LESBIAN
+	Wayward Son (Simon Snow, #2) by Rainbow Rowell
+	Cemetery Boys (Cemetery Boys, #1) by Aiden Thomas
+	Fried Green Tomatoes at the Whistle Stop Cafe (Whistle Stop #1) by Fannie Flagg
+	The Seven Husbands of Evelyn Hugo (Hardcover) by Taylor Jenkins Reid
+	Simon vs. the Homo Sapiens Agenda (Simonverse, #1) by Becky Albertalli
+
+GENRE: GRAPHIC NOVELS
+	Saga, Volume 4 (Paperback) by Brian K. Vaughan
+	The Walking Dead, Vol. 1: Days Gone Bye (Paperback) by Tony Moore
+	Laura Dean Keeps Breaking Up with Me (Hardcover) by Mariko Tamaki
+	The Wicked + The Divine, Vol. 1: The Faust Act (Paperback) by Jamie McKelvie
+	Paper Girls, Volume 1 (Paperback) by Brian K. Vaughan
+
+GENRE: HISTORICAL FICTION
+	Wolf Hall (Thomas Cromwell, #1) by Hilary Mantel
+	Daisy Jones & The Six (Hardcover) by Taylor Jenkins Reid
+	A Gentleman in Moscow (Paperback) by Amor Towles
+	The Four Winds (Hardcover) by Kristin Hannah
+	The Pillars of the Earth (Kingsbridge, #1) by Ken Follett
+
+GENRE: HISTORY
+	In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin (Hardcover) by Erik Larson
+	Salt: A World History (Paperback) by Mark Kurlansky
+	The Warmth of Other Suns: the Epic Story of America's Great Migration (Hardcover) by Isabel Wilkerson
+	SPQR: A History of Ancient Rome (Paperback) by Mary Beard
+	History of the Peloponnesian War (Paperback) by Thucydides
+
+GENRE: HORROR
+	Carrie (Mass Market Paperback) by Stephen King
+	Firestarter (Mass Market Paperback) by Stephen King
+	The Exorcist (Mass Market Paperback) by William Peter Blatty
+	The Silence of the Lambs  (Hannibal Lecter, #2) by Thomas  Harris
+	Horrorstör (Paperback) by Grady Hendrix
+
+GENRE: HUMOR AND COMEDY
+	The Princess Bride (Paperback) by William Goldman
+	Mila Blitz (Paperback) by Jimmy Tudeski
+	The Importance of Being Earnest (Paperback) by Oscar Wilde
+	So Long, and Thanks for All the Fish (The Hitchhiker's Guide to the Galaxy, #4) by Douglas Adams
+	Dress Your Family in Corduroy and Denim (Paperback) by David Sedaris
+
+GENRE: MEMOIR
+	Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls (and Everything in Between) by Lauren Graham
+	Lab Girl (Hardcover) by Hope Jahren
+	Night  (The Night Trilogy, #1) by Elie Wiesel
+	Girl, Interrupted (Paperback) by Susanna Kaysen
+	A Long Way Gone: Memoirs of a Boy Soldier (Hardcover) by Ishmael Beah
+
+GENRE: MUSIC
+	Clapton: The Autobiography (Hardcover) by Eric Clapton
+	Autobiography (Paperback) by Morrissey
+	Chronicles: Volume One (Paperback) by Bob Dylan
+	Born to Run (Hardcover) by Bruce Springsteen
+	Lick (Stage Dive, #1) by Kylie Scott
+
+GENRE: MYSTERY
+	The Secret History (Paperback) by Donna Tartt
+	Magpie Murders (Susan Ryeland, #1) by Anthony Horowitz
+	Murder at the Vicarage (Hardcover) by Agatha Christie
+	In the Woods (Dublin Murder Squad, #1) by Tana French
+	The Girl with the Dragon Tattoo (Millennium, #1) by Stieg Larsson
+
+GENRE: NONFICTION
+	The Library Book (Hardcover) by Susan Orlean
+	Guns, Germs, and Steel: The Fates of Human Societies (Paperback) by Jared Diamond
+	Outliers: The Story of Success (Hardcover) by Malcolm Gladwell
+	The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America (Hardcover) by Erik Larson
+	Stiff: The Curious Lives of Human Cadavers (Hardcover) by Mary Roach
+
+GENRE: PARANORMAL
+	Lover Awakened (Black Dagger Brotherhood, #3) by J.R. Ward
+	Lover Eternal (Black Dagger Brotherhood, #2) by J.R. Ward
+	New Moon (The Twilight Saga, #2) by Stephenie Meyer
+	Lover Revealed (Black Dagger Brotherhood, #4) by J.R. Ward
+	Angelfall (Penryn & the End of Days, #1) by Susan Ee
+
+GENRE: PHILOSOPHY
+	The Symposium (Paperback) by Plato
+	Man's Search for Meaning (Paperback) by Viktor E. Frankl
+	Utopia (Paperback) by Thomas More
+	Critique of Pure Reason (Paperback) by Paul Guyer
+	Ethics (Paperback) by Baruch Spinoza
+
+GENRE: POETRY
+	the sun and her flowers (Paperback) by Rupi Kaur
+	Salt (Paperback) by Nayyirah Waheed
+	Don't Call Us Dead (Paperback) by Danez Smith
+	Brown Girl Dreaming (Hardcover) by Jacqueline Woodson
+	Leaves of Grass (Paperback) by Walt Whitman
+
+GENRE: PSYCHOLOGY
+	Man and His Symbols (Mass Market Paperback) by C.G. Jung
+	The Tipping Point: How Little Things Can Make a Big Difference (Paperback) by Malcolm Gladwell
+	The Gifts of Imperfection (Paperback) by Brené Brown
+	The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change (Paperback) by Stephen R. Covey
+	Outliers: The Story of Success (Hardcover) by Malcolm Gladwell
+
+GENRE: RELIGION
+	The Divine Comedy (Hardcover) by Dante Alighieri
+	The End of Faith: Religion, Terror, and the Future of Reason (Paperback) by Sam Harris
+	Paradise Lost (Paperback) by John Milton
+	Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch (Mass Market Paperback) by Terry Pratchett
+	Orthodoxy (Paperback) by G.K. Chesterton
+
+GENRE: ROMANCE
+	The Duke and I (Bridgertons, #1) by Julia Quinn
+	Beautiful Disaster (Beautiful, #1) by Jamie McGuire
+	Twilight (The Twilight Saga, #1) by Stephenie Meyer
+	Fifty Shades of Grey (Fifty Shades, #1) by E.L. James
+	The Flatshare (The Flatshare, #1) by Beth O'Leary
+
+GENRE: SCIENCE
+	Chaos: Making a New Science (Paperback) by James Gleick
+	Why We Sleep: Unlocking the Power of Sleep and Dreams (Hardcover) by Matthew Walker
+	Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time (Hardcover) by Dava Sobel
+	Bonk: The Curious Coupling of Science and Sex (Paperback) by Mary Roach
+	Astrophysics for People in a Hurry (Hardcover) by Neil deGrasse Tyson
+
+GENRE: SCIENCE FICTION
+	The Time Machine (Paperback) by H.G. Wells
+	Dune (Dune, #1) by Frank Herbert
+	Do Androids Dream of Electric Sheep? (Kindle Edition) by Philip K. Dick
+	Ender’s Game (Ender's Saga, #1) by Orson Scott Card
+	Cinder (The Lunar Chronicles, #1) by Marissa Meyer
+
+GENRE: SELF HELP
+	The Power of Now: A Guide to Spiritual Enlightenment (Paperback) by Eckhart Tolle
+	The Highly Sensitive Person: How to Thrive When the World Overwhelms You (Paperback) by Elaine N. Aron
+	The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery (Kindle Edition) by Brianna Wiest
+	A New Earth: Awakening to Your Life's Purpose (Paperback) by Eckhart Tolle
+	The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (Paperback) by Mark Manson
+
+GENRE: SPIRITUALITY
+	Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life (Paperback) by Jon Kabat-Zinn
+	The Tibetan Book of Living and Dying (Kindle Edition) by Sogyal Rinpoche
+	Anatomy of the Spirit: The Seven Stages of Power and Healing (Paperback) by Caroline Myss
+	The Celestine Prophecy (Celestine Prophecy, #1) by James Redfield
+	Conversations with God: An Uncommon Dialogue, Book 1 (Hardcover) by Neale Donald Walsch
+
+GENRE: SPORTS
+	Good Boy (WAGs, #1) by Sarina Bowen
+	The Deal (Off-Campus, #1) by Elle Kennedy
+	From Lukov with Love (Paperback) by Mariana Zapata
+	The Game Plan (Game On, #3) by Kristen Callihan
+	Real (Real, #1) by Katy Evans
+
+GENRE: SUSPENSE
+	The Shining (The Shining, #1) by Stephen King
+	The Last Thing He Told Me (Hardcover) by Laura Dave
+	The Girl on the Train (Hardcover) by Paula Hawkins
+	You (You, #1) by Caroline Kepnes
+	Shutter Island (Mass Market Paperback) by Dennis Lehane
+
+GENRE: THRILLER
+	Verity (Paperback) by Colleen Hoover
+	Inferno (Robert Langdon, #4) by Dan Brown
+	The Family Upstairs (The Family Upstairs, #1) by Lisa Jewell
+	The Turn of the Key (Hardcover) by Ruth Ware
+	The Girl with the Dragon Tattoo (Millennium, #1) by Stieg Larsson
+
+GENRE: TRAVEL
+	The Innocents Abroad (Paperback) by Mark Twain
+	In a Sunburned Country (Paperback) by Bill Bryson
+	Ghost Train to the Eastern Star (Hardcover) by Paul Theroux
+	A Cook's Tour: Global Adventures in Extreme Cuisines (Hardcover) by Anthony Bourdain
+	Wild: From Lost to Found on the Pacific Crest Trail (Hardcover) by Cheryl Strayed
+
+GENRE: YOUNG ADULT
+	Divergent (Divergent, #1) by Veronica Roth
+	We Were Liars (Kindle Edition) by E. Lockhart
+	Thirteen Reasons Why (Hardcover) by Jay Asher
+	New Moon (The Twilight Saga, #2) by Stephenie Meyer
+	Eclipse (The Twilight Saga, #3) by Stephenie Meyer
