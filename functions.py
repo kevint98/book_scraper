@@ -2,17 +2,8 @@ import requests
 import random
 import os
 import smtplib
-import ssl
 from bs4 import BeautifulSoup
 from email.message import EmailMessage
-from email.mime.multipart import MIMEMultipart
-from email.mime.application import MIMEApplication
-from email.mime.text import MIMEText
-
-import datetime
-
-date_time = datetime.datetime.now()
-# from email import contentmanager
 
 
 def get_genres(url):
@@ -62,25 +53,30 @@ def get_books_by_genre(genre):
 
     return books
 
+
 def send_recommendations(filename, date):
 
     from_addr = os.environ.get('OUTLOOK_EMAIL')
     to_addr = os.environ.get('OUTLOOK_EMAIL')
     password = os.environ.get('OUTLOOK_SMTP_PASS')
 
-    body = 'These are your book recommendations for the next month.\n\nRemember to add your chosen books to your bookshelf.'
+    body = '''
+    These are your book recommendations for the next month.
+    
+    Remember to add your chosen books to your bookshelf.
+    '''
 
-    msg = MIMEMultipart()
+    msg = EmailMessage()
     msg['Subject'] = f'Book Recommendations for {date}'
     msg['To'] = to_addr
     msg['From'] = from_addr
-    body = MIMEText(body, 'plain')
-    msg.attach(body)
+    msg.set_content(body)
 
     with open(filename, 'r') as f:
-        part = MIMEApplication(f.read(), 'octet-stream')
-        part['Content-Disposition'] = f"attachment; filename= {filename}"
-    msg.attach(part)
+        msg.add_attachment(
+            f.read(),
+            filename=filename,
+        )
 
     with smtplib.SMTP('smtp-mail.outlook.com') as server:
         server.ehlo()
