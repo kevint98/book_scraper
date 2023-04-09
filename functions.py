@@ -1,6 +1,18 @@
 import requests
-from bs4 import BeautifulSoup
 import random
+import os
+import smtplib
+import ssl
+from bs4 import BeautifulSoup
+from email.message import EmailMessage
+from email.mime.multipart import MIMEMultipart
+from email.mime.application import MIMEApplication
+from email.mime.text import MIMEText
+
+import datetime
+
+date_time = datetime.datetime.now()
+# from email import contentmanager
 
 
 def get_genres(url):
@@ -29,7 +41,7 @@ def get_genres(url):
 
 def get_books_by_genre(genre):
 
-    page =  random.randint(1, 26)
+    page = random.randint(1, 26)
     url = 'https://www.goodreads.com/shelf/show/{}?page={}'.format(
         genre, page)
     res = requests.get(url)
@@ -39,14 +51,39 @@ def get_books_by_genre(genre):
     raw_books = soup.select('.elementList')
     random.shuffle(raw_books)
 
-
-    for book in raw_books :
+    for book in raw_books:
         if len(book.select('.bookTitle')) != 0:
             title = book.select('.bookTitle')[0].get_text()
             author = book.select('.authorName')[0].get_text()
             books.append(title + ' by ' + author)
-            
+
             if len(books) == 5:
                 break
-                         
+
     return books
+
+def send_recommendations(filename, date):
+
+    from_addr = os.environ.get('OUTLOOK_EMAIL')
+    to_addr = os.environ.get('OUTLOOK_EMAIL')
+    password = os.environ.get('OUTLOOK_SMTP_PASS')
+
+    body = 'These are your book recommendations for the next month.\n\nRemember to add your chosen books to your bookshelf.'
+
+    msg = MIMEMultipart()
+    msg['Subject'] = f'Book Recommendations for {date}'
+    msg['To'] = to_addr
+    msg['From'] = from_addr
+    body = MIMEText(body, 'plain')
+    msg.attach(body)
+
+    with open(filename, 'r') as f:
+        part = MIMEApplication(f.read(), 'octet-stream')
+        part['Content-Disposition'] = f"attachment; filename= {filename}"
+    msg.attach(part)
+
+    with smtplib.SMTP('smtp-mail.outlook.com') as server:
+        server.ehlo()
+        server.starttls()
+        server.login(from_addr, password)
+        server.sendmail(from_addr, to_addr, msg.as_string())

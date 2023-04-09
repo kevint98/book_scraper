@@ -23,3 +23,5 @@ for genre in genres:
     for book in books:
         with open(text_file, 'a+') as f:
             f.write('\t' + book + '\n')
+
+send_recommendations(text_file, date_time.date())
